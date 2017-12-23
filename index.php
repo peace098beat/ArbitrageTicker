@@ -212,6 +212,7 @@ window.onload = function (){
     <input type="button" value="startTimer" onclick="startTimer();"/>
     <input type="button" value="stopTimer" onclick="stopTimer();"/>
     
-
+<h2>ソースコード</h2>
+<script src="https://gist.github.com/peace098beat/6305b4332ceee765bcc9673ba291e500.js"></script>
 </body>
 </html>
